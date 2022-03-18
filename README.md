@@ -1,7 +1,8 @@
-# Vue 3 + Vite
+# Pokedex - Proyecto Launch X
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este proyecto esta desarrollado con Vue 3 y Taildwind CSS.
 
-## Recommended IDE Setup
+- Hace uso de la api [PokeApi](https://pokeapi.co/)
+- Peticiones http mediante Axios
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+NOTA: Puede visualizar el resultado en el siguiente [link](https://pokedex-garguiiot.netlify.app/).
